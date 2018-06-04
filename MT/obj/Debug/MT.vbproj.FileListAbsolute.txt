@@ -1,0 +1,85 @@
+C:\Users\admin\Desktop\New folder (5)\MT\MT\bin\Debug\MT.exe.config
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Login.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Resources.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.xml
+C:\Users\admin\Desktop\New folder (5)\MT\MT\bin\Debug\MT.exe
+C:\Users\admin\Desktop\New folder (5)\MT\MT\bin\Debug\MT.pdb
+C:\Users\admin\Desktop\New folder (5)\MT\MT\bin\Debug\MT.xml
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.exe
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.pdb
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.UserAdd.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.UserEdit.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.UserEditPassword.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Feedback.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.InventoryView.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Inventoryaddproduct.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Feeddetails.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.orderview.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Order.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Welcome.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Manager.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Staff.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.User.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.Orderdetails.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\MT.SalesReport.resources
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\New folder (5)\MT\MT\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\New folder (5)\MT\MT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\bin\Debug\MT.exe.config
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.exe
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.xml
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.pdb
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\bin\Debug\MT.exe
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\bin\Debug\MT.pdb
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\bin\Debug\MT.xml
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.vbprojResolveAssemblyReference.cache
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Feedback.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Feeddetails.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Inventoryaddproduct.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.InventoryView.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Login.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Manager.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Resources.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Order.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Orderdetails.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.orderview.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.SalesReport.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Staff.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.User.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.UserAdd.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.UserEdit.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.UserEditPassword.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.Welcome.resources
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\MT.vbproj.GenerateResource.Cache
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\RdlCompile.cache
+D:\APU\SEM 5\Intro to SE\MyToys (System)\MT\MT\obj\Debug\RdlCompile.compiled
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\bin\Debug\MT.exe.config
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\bin\Debug\MT.exe
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\bin\Debug\MT.pdb
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\bin\Debug\MT.xml
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.vbprojResolveAssemblyReference.cache
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Feedback.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Feeddetails.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Inventoryaddproduct.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.InventoryView.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Login.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Manager.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Resources.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Order.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Orderdetails.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.orderview.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.SalesReport.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Staff.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.User.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.UserAdd.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.UserEdit.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.UserEditPassword.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.Welcome.resources
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.vbproj.GenerateResource.Cache
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.vbproj.CoreCompileInputs.cache
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.exe
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.xml
+H:\New folder (4)\College\Diploma\Sem 5\Diploma Sem 5 Assignment\MyToys (System)\MyToys (System)\MT\MT\obj\Debug\MT.pdb
